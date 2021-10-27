@@ -1,6 +1,9 @@
 {
     "models": [
-        "deltarune/ralsei"
+        "deltarune/ralsei",
+        [
+            "deltarune/ralsei"
+        ]
     ],
     "messages": [
         "来自 Potion Maker 的 Pio 酱 ~",
